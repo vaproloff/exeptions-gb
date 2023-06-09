@@ -1,7 +1,7 @@
 package sem_02_hw.task_3;
 
 /*
-    Задание 2.
+    Задание 3.
     Дан следующий код, исправьте его там, где требуется:
     https://docs.google.com/document/d/17EaA1lDxzD5YigQ5OAal60fOFKVoCbEJqooB9XfhT7w/edit
 */
